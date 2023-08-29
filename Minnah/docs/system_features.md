@@ -4,32 +4,43 @@ The "Minnah" app offers a plethora of features that cater to different aspects o
 
 ## Homepage
 
-![Homepage](Screenshot/Homepage.jpg)
+![Homepage](image/HomeScreen.jpg)
 
 
 ## All Verse From Quran
 
-![All Verse From Quran](Screenshot/AllTheVerse.jpg)
+![All Verse From Quran](image/AllTheVerse.jpg)
 
 ## Read verse
 
-![Read verse](Screenshot/ReadVerse.jpg)
+![Read verse](image/ReadVerse.jpg)
 
 ## Mosque Near Me
 
-![Mosque Near Me](Screenshot/MosqueNearMe.jpg)
+![Mosque Near Me](image/MosqueNearMe.jpg)
 
 ## Zakat Calculator
 
-![Zakat Calculator](Screenshot/ZakatCalculator.jpg)
+![Zakat Calculator](image/ZakatCalculator.jpg)
+
+## Tasbih
+
+![Tasbih](image/Tasbih.jpg)
 
 ## Prayer Reminder
 
-![Prayer Reminder](Screenshot/PrayerReminder.jpg)
+![Prayer Time](image/SalahTime.jpg)
 
 ## Donation
 
-![Donation](Screenshot/DonationPage.jpg)
+![Donation](image/DonationToMinnah.jpg)
+![Donation](image/DonationToCharity.jpg)
+![Donation](image/DonatePage.jpg)
 
+## Quiz
 
+![Quiz](image/Quiz.jpg)
 
+## Feedback
+
+![Feedback](image/Feedback.jpg)

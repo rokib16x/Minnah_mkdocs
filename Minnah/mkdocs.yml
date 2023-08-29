@@ -1,26 +1,5 @@
 site_name: Minnah Project Documentation
 
-# # Theme: Cinder
-# theme:
-#   name: cinder
-#   custom_dir: theme
-#   features:
-#     responsive: true
-#     code_highlight: true
-
-# nav:
-#   - Introduction: 'introduction.md'
-#   - Objectives: 'purpose.md'
-#   - Study Findings: 'system_studies.md'
-#   - Architectural Design: 'system_design.md'
-#   - Interfaces and API: 'external_interface_requirements.md'
-#   - Feature Overview: 'system_features.md'
-#   - Functional Specs: 'functional_requirements.md'
-#   - Non-Functional Specs: 'non_functional_requirements.md'
-#   - User Engagement: 'interaction_with_humans.md'
-#   - Concluding Thoughts: 'conclusion.md'
-
-# Theme: Material
 theme: material
 nav:
   - Introduction: 'introduction.md'
@@ -33,23 +12,3 @@ nav:
   - Non-functional Requirements: 'non_functional_requirements.md'
   - Interaction with Humans: 'interaction_with_humans.md'
   - Conclusion: 'conclusion.md'
-
-# # Theme: Read the Docs
-# theme:
-#   name: readthedocs
-#   palette:
-#     primary: 'deep-purple'
-#     accent: 'blue'
-
-# nav:
-#   - Introduction: 'introduction.md'
-#   - Getting Started: 'purpose.md'
-#   - System Overview: 'system_studies.md'
-#   - Architecture: 'system_design.md'
-#   - Interfaces: 'external_interface_requirements.md'
-#   - Features: 'system_features.md'
-#   - Requirements: 'functional_requirements.md'
-#   - Non-Functional Requirements: 'non_functional_requirements.md'
-#   - User Interaction: 'interaction_with_humans.md'
-#   - Conclusion: 'conclusion.md'
-
